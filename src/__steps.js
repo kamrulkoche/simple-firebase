@@ -11,5 +11,6 @@
  * 10.create const auth=getAuth(app)  
  * 11.import googleAuthProvider and create a new provider
  * 12.use signInWithPopUp and pass auth and provider
- * 13.Activate sign-in method (google,facebook,github,etc   )
+ * 13.Activate sign-in method (google,facebook,github,etc)
+ * 14.[Vite]: change 127.0.0.1 to localhost
  */
